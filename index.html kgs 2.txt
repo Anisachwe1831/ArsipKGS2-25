@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Arsip XIII KGS 2' 25</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fef6fb;
+      color: #3b3b3b;
+      padding: 2rem;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #e272a4;
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    .section {
+      background: #fff0f7;
+      border: 2px dashed #ffb3d9;
+      border-radius: 12px;
+      padding: 1rem 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+    .section h2 {
+      color: #d14d72;
+    }
+    .link-item {
+      margin-left: 1.5rem;
+    }
+    a {
+      color: #d14d72;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      text-align: center;
+      margin-top: 3rem;
+      font-size: 0.9rem;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <h1>Daftar Memories XIII KGS 2' 25</h1>
+
+  <div class="section">
+    <h2>Bandungan</h2>
+    <div class="link-item">Farid: <a href="https://drive.google.com/drive/folders/1f5qEu5BZRq4-7j60raPuW4ceh1ZbKbkr">Link</a></div>
+    <div class="link-item">Anisa: <a href="https://drive.google.com/drive/folders/1_TWPYzY21mVxjQRS6jCoPeOmYq_IJqta">Link</a></div>
+    <div class="link-item">Zafira: <a href="https://drive.google.com/drive/folders/1FiXbEXR-bmoI0WBsPt2D9UUloTMRasLv?usp=sharing">Link</a></div>
+    <div class="link-item">Tita: <a href="https://drive.google.com/drive/folders/11I5oajvNcZEp07PKPpP1K8BMo_HZXtNH">Link</a></div>
+  </div>
+
+  <div class="section">
+    <h2>Video Praktek</h2>
+    <div class="link-item"><a href="https://drive.google.com/drive/folders/1-ZIbXVfUw4VDmwn7hqPpJvSRQtDzpAlO">Folder</a></div>
+  </div>
+
+  <div class="section">
+    <h2>Foto Kelulusan</h2>
+    <div class="link-item"><a href="https://drive.google.com/drive/mobile/folders/1NjwN_aMC_BGMOb9ycH2bzEmTPJrmBvSU">Folder</a></div>
+  </div>
+
+  <div class="section">
+    <h2>Foto Lomba kelas 3</h2>
+    <div class="link-item"><a href="https://drive.google.com/drive/folders/1IFCRq6oYupn2YD2OXbWInX9Ajk5uQTWr">Folder 1</a></div>
+  </div>
+
+  <div class="section">
+    <h2>Foto WP Merah</h2>
+    <div class="link-item"><a href="https://drive.google.com/drive/folders/1_ee_mR-QDwi20qGwHEcatc7Q6sjXqsi0">Folder 1</a></div>
+  </div>
+
+  <div class="section">
+    <h2>Market Day</h2>
+    <div class="link-item">Canon: <a href="https://drive.google.com/drive/folders/1IFCRq6oYupn2YD2OXbWInX9Ajk5uQTWr">Link</a></div>
+    <div class="link-item">Folder 1: <a href="https://drive.google.com/drive/folders/1kd_2U3SVU6F2TWW6Iwn1C3vj2zywis3w">Link</a></div>
+  </div>
+
+  <div class="section">
+    <h2>Classmeet</h2>
+    <div class="link-item">Classmeet: <a href="https://drive.google.com/drive/folders/1xeMI064HbjwZBNF5pCc6bOyfUDMhhVQ8">Link</a></div>
+    <div class="link-item">Classmeet Sepak Bola: <a href="https://drive.google.com/drive/folders/1_EA-8AYhhx3z0tcGYhhwLC7hMkgiFji3">Link</a></div>
+  </div>
+
+  <div class="section">
+    <h2>Bakaran XI KGS 2</h2>
+    <div class="link-item">Foto Bakaran: <a href="https://drive.google.com/drive/folders/1xHfvL7jg0-s7FnFL6RaZ7aKzvXDCNSZZ">Link</a></div>
+    <div class="link-item">Video Bakaran: <a href="https://drive.google.com/drive/folders/1cSc2uBbQmFF4BR9lF8GGYP2IDUIepZGO">Link</a></div>
+  </div>
+
+  <div class="section">
+    <h2>Video Tugas Pipa</h2>
+    <div class="link-item"><a href="https://drive.google.com/drive/folders/1_EA-8AYhhx3z0tcGYhhwLC7hMkgiFji3">Folder</a></div>
+  </div>
+
+  <div class="section">
+    <h2>Folder Laporan PKL XIII KGS 2</h2>
+    <div class="link-item"><a href="https://drive.google.com/drive/folders/158jkZpS6Qz8Qblb-pS1QrOHOknUI33Em">Folder</a></div>
+  </div>
+
+  <div class="section">
+    <h2>Buka Bersama 2024</h2>
+    <div class="link-item"><a href="https://drive.google.com/drive/folders/1-xpJo5q6WEqOMwm_dN_iIHvny38xOBLH">Folder</a></div>
+  </div>
+
+  <div class="section">
+    <h2>KGS 2 Nyaleg</h2>
+    <div class="link-item"><a href="https://drive.google.com/drive/folders/1FeS75ps63l-7EgOlUykyPowvnlbMA-jI">Folder</a></div>
+  </div>
+
+  <div class="section">
+    <h2>Dieng</h2>
+    <div class="link-item">Cam FAA: <a href="https://drive.google.com/drive/folders/12LMdC558tXliAMkZHSSwMOC2xX0DEsk3">Link</a></div>
+    <div class="link-item">HP Azka: <a href="https://drive.google.com/drive/folders/1pIOAifV__IuogMtD6yIc2oft27RAHQZh">Link</a></div>
+  </div>
+
+  <footer>
+    Made with ♡ by Anisa
+  </footer>
+</body>
+</html>
